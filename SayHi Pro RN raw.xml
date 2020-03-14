@@ -113,7 +113,7 @@
     <string name="pref_camera_recordlocation_key">0</string>
     <string name="s_focus_key">3.21</string>
     <string name="pref_disable_slowmotion_key">1</string>
-    <string name="pref_camera_raw_output_option_available_key">0</string>
+    <string name="pref_camera_raw_output_option_available_key">1</string>
     <string name="pref_has_checked_cuttlefish_mode">1</string>
     <string name="pref_2ndauxback_denoise_revert_2_key">250</string>
     <string name="pref_raw_compression_key">0</string>
